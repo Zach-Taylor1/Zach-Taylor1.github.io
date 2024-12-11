@@ -1,7 +1,7 @@
 # Docker Compose-Installing WordPress on Mac M2
 Open Docker Desktop and make sure that the latest version is installed
 
-Once the latest version is installed, search for ‘Wordpress’ in the top right of the Docker Desktop screen
+    Once the latest version is installed, search for ‘Wordpress’ in the top right of the Docker Desktop screen
 
     Pull the latest version (or whatever version you want)
 
